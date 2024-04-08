@@ -1,7 +1,7 @@
 # Modern UI/UX Static Website 
 ### [Live Site](https://smart-home-app.website)
 
-![Modern UI/UX GPT-3]
+
 ![alt text](<images/displaying the app/Homepage.jpg>)
 ![alt text](<images/displaying the app/Phone display.jpg>)
 
