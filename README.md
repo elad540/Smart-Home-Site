@@ -8,7 +8,7 @@
 ### [🌟 This site created only with Javascript, HTML and CSS]
 
 ## Introduction
-This is a code repository for my Fullstack projects. 
+This code repository is part of my Fullstack projects. 
 
 - JS file and folder structure
 - Fundamental CSS properties to master flex & grid
